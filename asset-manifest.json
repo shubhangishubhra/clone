@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shubhangishubhra/clone.git/static/css/main.cfbcf472.css",
+    "main.js": "/shubhangishubhra/clone.git/static/js/main.c2ebaf0e.js",
+    "static/js/577.e4b977bf.chunk.js": "/shubhangishubhra/clone.git/static/js/577.e4b977bf.chunk.js",
+    "static/js/539.3281d2f1.chunk.js": "/shubhangishubhra/clone.git/static/js/539.3281d2f1.chunk.js",
+    "index.html": "/shubhangishubhra/clone.git/index.html",
+    "main.cfbcf472.css.map": "/shubhangishubhra/clone.git/static/css/main.cfbcf472.css.map",
+    "main.c2ebaf0e.js.map": "/shubhangishubhra/clone.git/static/js/main.c2ebaf0e.js.map",
+    "577.e4b977bf.chunk.js.map": "/shubhangishubhra/clone.git/static/js/577.e4b977bf.chunk.js.map",
+    "539.3281d2f1.chunk.js.map": "/shubhangishubhra/clone.git/static/js/539.3281d2f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbcf472.css",
+    "static/js/main.c2ebaf0e.js"
+  ]
+}
